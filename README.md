@@ -1,11 +1,11 @@
-h1. cache server
+#cache server
 
-A simple, single server cache
+A simple, single server cache. Written in Erlang. One of the exercises in the Erlang and OTP in action book.
 
-h2. Author(s)
+##Author(
 
 * Brent Hoover <brent@hoover.net>
 
-h2. Copyright
+##Copyright
 
 Copyright (c)  2012 Brent Hoover <brent@hoover.net> .  All rights reserved.
