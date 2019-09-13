@@ -1,6 +1,7 @@
 #cache server
 
-A simple, single server cache. Written in Erlang. One of the exercises in the Erlang and OTP in action book.
+A simple, single server cache written in Erlang.
+
 
 ##Author
 
